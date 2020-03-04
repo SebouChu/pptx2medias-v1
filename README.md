@@ -15,3 +15,11 @@ Script Ruby qui récupère les medias d'un fichier PPTX pour les mettre dans un 
 ```
 pptx2medias "<fichier ou chemin absolu>"
 ```
+
+### Exemple
+
+```
+pptx2medias "/Users/sebastiengaya/Documents/Diapo\ exemple.pptx"
+```
+
+*A noter l'escape des espaces dans les guillemets*
