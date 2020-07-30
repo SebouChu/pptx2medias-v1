@@ -17,3 +17,11 @@ Script Ruby qui récupère les medias d'un fichier PPTX pour les mettre dans un 
 ```
 $ pptx2medias <fichier ou chemin absolu>
 ```
+
+### Exemple
+
+```
+$ pptx2medias /home/sebastiengaya/Diapo\ exemple.pptx
+```
+
+*A noter l'échappement de l'espace dans le nom du fichier. Glisser le fichier du Finder vers le Terminal gère automatiquement cette subtilité.*
