@@ -15,5 +15,5 @@ Script Ruby qui récupère les medias d'un fichier PPTX pour les mettre dans un 
 ## Utilisation
 
 ```
-pptx2medias <fichier ou chemin absolu>
+$ pptx2medias <fichier ou chemin absolu>
 ```
